@@ -42,7 +42,7 @@ class HomeScreen extends StatelessWidget {
                           height: 4,
                         ),
                         Text(
-                          "What Pie you want to try today?",
+                          "Find your course",
                           style: blackTextStyle.copyWith(fontSize: 20),
                         ),
                       ],
